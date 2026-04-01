@@ -1,0 +1,8 @@
+=========================== VENTAS ===========================
+Fecha: miércoles, 30 de abril de 2025 08:39:03 a. m.
+
+Orden 1:
+	Bebidas:
+		Limonada --- $27.5
+	Propina de $2.75 para el Área de Meseros
+

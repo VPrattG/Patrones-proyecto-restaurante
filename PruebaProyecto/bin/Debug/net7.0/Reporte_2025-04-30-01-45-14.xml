@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Reporte FechaGeneracion="2025-04-30 01:45:14">
+  <Línea Numero="1">=========================== VENTAS ===========================</Línea>
+  <Línea Numero="2">Fecha: miércoles, 30 de abril de 2025 08:45:13 a. m.</Línea>
+  <Línea Numero="3"></Línea>
+  <Línea Numero="4">Orden 1:</Línea>
+  <Línea Numero="5">	Platillos:</Línea>
+  <Línea Numero="6">		Flautas --- $105</Línea>
+  <Línea Numero="7">	Bebidas:</Línea>
+  <Línea Numero="8">		Limonada --- $27.5</Línea>
+  <Línea Numero="9">	Propina de $13.25 para el Área de Cocina</Línea>
+  <Línea Numero="10"></Línea>
+</Reporte>

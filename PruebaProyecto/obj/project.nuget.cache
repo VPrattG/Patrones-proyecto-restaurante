@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BpbrRm3C6RhnUB/I3SQOIwsm3B9/ayRwz6mknvXIJ2pgi5mEScEVjKWVG++gPLpiFR3XOpOcHd6E/jCTkIcb2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\PDS_U3_Proyecto\\PruebaProyecto\\PruebaProyecto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\pdfsharpcore\\1.3.67\\pdfsharpcore.1.3.67.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\sharpziplib\\1.4.2\\sharpziplib.1.4.2.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta17\\sixlabors.fonts.1.0.0-beta17.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\sixlabors.imagesharp\\1.0.4\\sixlabors.imagesharp.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

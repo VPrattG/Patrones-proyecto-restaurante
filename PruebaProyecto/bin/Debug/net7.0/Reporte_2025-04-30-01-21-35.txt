@@ -1,0 +1,10 @@
+=========================== VENTAS ===========================
+Fecha: miércoles, 30 de abril de 2025 08:21:32 a. m.
+
+Orden 1:
+	Platillos:
+		Flautas --- $105
+	Bebidas:
+		Limonada --- $27.5
+	Propina de $13.25 para el Área de Meseros
+

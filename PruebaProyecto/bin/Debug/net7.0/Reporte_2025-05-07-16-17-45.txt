@@ -1,0 +1,20 @@
+=========================== VENTAS ===========================
+Fecha: miércoles, 7 de mayo de 2025 11:17:29 p. m.
+
+Orden 1:
+	Platillos:
+		Enchiladas --- $120.5
+		Enchiladas --- $120.5
+		Enchiladas --- $120.5
+	Bebidas:
+		Agua de Jamaica --- $30
+		Limonada --- $27.5
+	Propina de $41.900000000000006 para el Área de Bebidas
+Orden 2:
+	Platillos:
+		Tostadas --- $130.2
+		Sopes --- $111
+	Bebidas:
+		Enchiladas --- $25
+	Propina de $26.62 para el Área de Cocina
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Reporte FechaGeneracion="2025-04-30 01:39:07">
+  <Línea Numero="1">=========================== VENTAS ===========================</Línea>
+  <Línea Numero="2">Fecha: miércoles, 30 de abril de 2025 08:39:03 a. m.</Línea>
+  <Línea Numero="3"></Línea>
+  <Línea Numero="4">Orden 1:</Línea>
+  <Línea Numero="5">	Bebidas:</Línea>
+  <Línea Numero="6">		Limonada --- $27.5</Línea>
+  <Línea Numero="7">	Propina de $2.75 para el Área de Meseros</Línea>
+  <Línea Numero="8"></Línea>
+</Reporte>

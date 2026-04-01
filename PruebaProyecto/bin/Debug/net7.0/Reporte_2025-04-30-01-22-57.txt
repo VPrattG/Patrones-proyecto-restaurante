@@ -1,0 +1,10 @@
+=========================== VENTAS ===========================
+Fecha: miércoles, 30 de abril de 2025 08:22:56 a. m.
+
+Orden 1:
+	Platillos:
+		Enchiladas --- $120.5
+	Bebidas:
+		Limonada --- $27.5
+	Propina de $14.8 para el Área de Meseros
+
